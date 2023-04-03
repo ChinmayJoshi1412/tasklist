@@ -6,7 +6,7 @@ Task List is an app that helps user create a to-do list. The app uses SharedPref
 
 <table>
   <tr>
-    <td><img src="screenshots/Screenshot_20230403-104257_2.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_20230403-104304_3.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_20230403-104257_2.png" width=270 ></td>
+    <td><img src="screenshots/Screenshot_20230403-104304_3.png" width=270 ></td>
   </tr>
  </table>
